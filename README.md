@@ -52,6 +52,8 @@ This will give you a summary of all changes for the tracked cities.  For every c
 on the most recent csv (that isn't on the csv from a day before), you'll get the question if you want
 to add it to your tracking list.
 
+![alt text](docs/rivm.png)
+
 After completion, a new file will have been created, called "Mmm-DD-tracked.csv".
 
 If you want to stop tracking a city, open the most recent tracking file, and manually remove the city
